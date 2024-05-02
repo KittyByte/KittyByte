@@ -83,12 +83,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
-
-
  Last Updated on 02/05/2024 10:24:42 UTC
 <!--END_SECTION:waka-->
