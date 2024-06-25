@@ -11,6 +11,8 @@
 <h3>📈 My statistics:</h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%2024%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 27.6 kB Used in GitHub's Storage 
@@ -65,5 +67,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2024 07:20:53 UTC
+ Last Updated on 25/06/2024 07:19:57 UTC
 <!--END_SECTION:waka-->
