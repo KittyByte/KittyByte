@@ -37,18 +37,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   21 hrs 11 mins      ████████████████████░░░░░   79.05 % 
-Bash                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Docker                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  20 hrs 18 mins      ███████████████████░░░░░░   75.77 % 
-VS Code                  6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 hrs 48 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +60,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2024 01:48:48 UTC
+ Last Updated on 29/12/2024 01:49:44 UTC
 <!--END_SECTION:waka-->
