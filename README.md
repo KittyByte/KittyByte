@@ -11,11 +11,13 @@
 <h3>📈 My statistics:</h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-914%20hrs%2043%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 35.2 kB Used in GitHub's Storage 
  > 
-> 🏆 35 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,13 +39,15 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              ████████████░░░░░░░░░░░░░   46.98 % 
+Bash                     0 secs              ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+Other                    0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -60,5 +64,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2024 01:49:44 UTC
+ Last Updated on 01/01/2025 01:49:25 UTC
 <!--END_SECTION:waka-->
