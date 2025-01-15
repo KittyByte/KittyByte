@@ -15,8 +15,6 @@
 
 > 📦 35.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -37,13 +35,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   6 hrs 41 mins       ██████████████████████░░░   87.39 % 
+Bash                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 hrs 23 mins       ████████████████████████░   96.49 % 
+PyCharm                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -60,5 +63,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2025 01:42:37 UTC
+ Last Updated on 15/01/2025 01:39:53 UTC
 <!--END_SECTION:waka-->
