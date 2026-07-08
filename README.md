@@ -6,8 +6,6 @@
 <h3>📈 My statistics:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C380%20hrs%2047%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 35.9 kB Used in GitHub's Storage 
@@ -34,17 +32,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 57 mins      ███████████████████████░░   90.65 % 
-YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   4 hrs 45 mins       █████████████████████░░░░   82.55 % 
+Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  5 hrs 34 mins       ████████████████████████░   96.73 % 
+Cursor                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 💻 Operating System: 
-Mac                      16 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +61,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2026 07:12:24 UTC
+ Last Updated on 08/07/2026 06:09:46 UTC
 <!--END_SECTION:waka-->
