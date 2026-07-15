@@ -32,18 +32,16 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 45 mins       █████████████████████░░░░   82.55 % 
-Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Python                   3 hrs 37 mins       ██████████████████████░░░   88.86 % 
+Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 34 mins       ████████████████████████░   96.73 % 
-Cursor                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+VS Code                  3 hrs 31 mins       ██████████████████████░░░   86.34 % 
+Cursor                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 
 💻 Operating System: 
-Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -61,5 +59,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2026 06:09:46 UTC
+ Last Updated on 15/07/2026 05:52:27 UTC
 <!--END_SECTION:waka-->
