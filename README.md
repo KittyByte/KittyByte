@@ -32,16 +32,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 37 mins       ██████████████████████░░░   88.86 % 
-Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Python                   11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 31 mins       ██████████████████████░░░   86.34 % 
-Cursor                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -59,5 +56,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2026 05:52:27 UTC
+ Last Updated on 22/07/2026 06:21:33 UTC
 <!--END_SECTION:waka-->
