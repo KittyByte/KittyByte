@@ -32,23 +32,40 @@
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 25 mins       █████████████████████░░░░   83.50 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-TOML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Python                   15 hrs 51 mins      ██████████████████████░░░   86.57 % 
+HTML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 53 mins      ████████████████████████░   97.69 % 
+Cursor                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 💻 Operating System: 
-Mac                      11 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 12 mins (6.6%)
+
+✍️ 2,175 lines written by AI, 1,565 lines written by hand (58.16% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 4 AI Prompts
+
+Opus                     2,176 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 58.16% of written lines came from AI
+📚 Verbose Prompter — average 6,468 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 57.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -66,5 +83,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 06:35:46 UTC
+ Last Updated on 08/08/2026 04:49:03 UTC
 <!--END_SECTION:waka-->
