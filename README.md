@@ -32,40 +32,43 @@
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 51 mins      ██████████████████████░░░   86.57 % 
-HTML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Python                   15 hrs 1 min        ████████████████████████░   95.09 % 
+YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 53 mins      ████████████████████████░   97.69 % 
-Cursor                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+VS Code                  15 hrs 9 mins       ████████████████████████░   95.93 % 
+Cursor                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Agent                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 12 mins (6.6%)
+⏱ AI Coding Time: 2 hrs 42 mins (17.14%)
 
-✍️ 2,175 lines written by AI, 1,565 lines written by hand (58.16% AI-written)
+✍️ 1,097 lines written by AI, 1,605 lines written by hand (40.6% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 18,488 Input Tokens, 18,488 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.13 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 4 AI Prompts
+🧠 9 AI Sessions, 34 AI Prompts
 
-Opus                     2,176 lines         █████████████████████████   100.00 % 
+Cursor                   969 lines           ████████████████████░░░░░   81.09 % 
+Grok                     226 lines           █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.16% of written lines came from AI
-📚 Verbose Prompter — average 6,468 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 57.4% of changed lines were hand-edited
+⚖️ Balanced with AI — 40.6% of written lines came from AI
+📚 Verbose Prompter — average 3,630 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 70.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -83,5 +86,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 04:49:03 UTC
+ Last Updated on 15/08/2026 04:46:45 UTC
 <!--END_SECTION:waka-->
