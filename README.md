@@ -6,6 +6,10 @@
 <h3>📈 My statistics:</h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C447%20hrs%2045%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2031%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 36.0 kB Used in GitHub's Storage 
@@ -32,23 +36,40 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 43 mins        ████████████████░░░░░░░░░   63.03 % 
-Markdown                 59 mins             █████████░░░░░░░░░░░░░░░░   35.82 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Python                   3 hrs 14 mins       ████████████████░░░░░░░░░   62.02 % 
+Markdown                 59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 35 mins       ██████████████████████░░░   87.81 % 
+Claude Code              38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 
 💻 Operating System: 
-Mac                      2 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 30 mins (28.78%)
+
+✍️ 566 lines written by AI, 457 lines written by hand (55.33% AI-written)
+
+🔤 249,824 Input Tokens, 77,345 Output Tokens
+
+💵 $5.09 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 17 AI Prompts
+
+Sonnet                   590 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 55.33% of written lines came from AI
+📄 Detailed Prompter — average 509 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 78.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -66,5 +87,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 09:55:14 UTC
+ Last Updated on 01/09/2026 08:08:08 UTC
 <!--END_SECTION:waka-->
