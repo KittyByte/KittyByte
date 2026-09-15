@@ -32,41 +32,40 @@
 
 ```text
 💬 Programming Languages: 
-Python                   19 hrs 18 mins      ███████████████████████░░   90.28 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-TOML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Git Config               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Python                   28 hrs 31 mins      ███████████████████████░░   92.07 % 
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 17 mins      ███████████████████████░░   90.24 % 
-Claude Code              2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+VS Code                  28 hrs 18 mins      ███████████████████████░░   91.35 % 
+Claude Code              2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 
 💻 Operating System: 
-Mac                      21 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 43 mins (22.1%)
+⏱ AI Coding Time: 6 hrs 55 mins (22.37%)
 
-✍️ 1,791 lines written by AI, 1,699 lines written by hand (51.32% AI-written)
+✍️ 1,126 lines written by AI, 1,956 lines written by hand (36.53% AI-written)
 
-🔤 3,413,229 Input Tokens, 273,179 Output Tokens
+🔤 2,072,004 Input Tokens, 424,544 Output Tokens
 
-💵 $29.02 Estimated AI Cost This Week
+💵 $26.46 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 59 AI Prompts
+🧠 11 AI Sessions, 220 AI Prompts
 
-Sonnet                   2,114 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   1,451 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.32% of written lines came from AI
-📄 Detailed Prompter — average 507 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 78.85% of changed lines were hand-edited
+⚖️ Balanced with AI — 36.53% of written lines came from AI
+📄 Detailed Prompter — average 562 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🔍 Hands-On Reviewer — 70.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -84,5 +83,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 07:29:17 UTC
+ Last Updated on 15/09/2026 07:52:41 UTC
 <!--END_SECTION:waka-->
