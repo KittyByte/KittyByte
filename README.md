@@ -32,44 +32,46 @@
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 45 mins      ████████████████████████░   95.11 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Python                   16 hrs 45 mins      █████████████████████░░░░   83.73 % 
+Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 21 mins      ███████████████████░░░░░░   74.64 % 
-Claude Code              4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+VS Code                  14 hrs              ██████████████████░░░░░░░   70.05 % 
+Claude Code              5 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+Cursor                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Agent                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Mac                      16 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 42 mins (46.52%)
+⏱ AI Coding Time: 9 hrs 23 mins (46.98%)
 
-✍️ 5,356 lines written by AI, 443 lines written by hand (92.36% AI-written)
+✍️ 2,605 lines written by AI, 456 lines written by hand (85.1% AI-written)
 
-🔤 3,692,319 Input Tokens, 496,641 Output Tokens
+🔤 2,541,605 Input Tokens, 1,015,588 Output Tokens
 
-💵 $48.73 Estimated AI Cost This Week
+💵 $102.32 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 181 AI Prompts
+🧠 13 AI Sessions, 166 AI Prompts
 
-Sonnet                   5,437 lines         █████████████████████████   99.82 % 
-Cursor                   10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,847 lines         ████████████░░░░░░░░░░░░░   48.76 % 
+Sonnet                   1,842 lines         ████████████░░░░░░░░░░░░░   48.63 % 
+Grok                     90 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Cursor                   9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.36% of written lines came from AI
-📄 Detailed Prompter — average 522 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 15.47% of changed lines were hand-edited
+🤖 AI-Driven — 85.1% of written lines came from AI
+📄 Detailed Prompter — average 623 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 26.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +89,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 07:54:52 UTC
+ Last Updated on 29/09/2026 09:11:59 UTC
 <!--END_SECTION:waka-->
