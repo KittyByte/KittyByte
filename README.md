@@ -6,6 +6,10 @@
 <h3>📈 My statistics:</h1>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C538%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2048%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 36.0 kB Used in GitHub's Storage 
@@ -32,46 +36,42 @@
 
 ```text
 💬 Programming Languages: 
-Python                   16 hrs 45 mins      █████████████████████░░░░   83.73 % 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Python                   9 hrs 30 mins       ████████████████████░░░░░   78.86 % 
+Markdown                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-VS Code                  14 hrs              ██████████████████░░░░░░░   70.05 % 
-Claude Code              5 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-Cursor                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Agent                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+VS Code                  7 hrs 32 mins       ████████████████░░░░░░░░░   62.58 % 
+Claude Code              4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   37.42 % 
 
 💻 Operating System: 
-Mac                      20 hrs              █████████████████████████   100.00 % 
+Mac                      12 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 23 mins (46.98%)
+⏱ AI Coding Time: 6 hrs 45 mins (55.97%)
 
-✍️ 2,605 lines written by AI, 456 lines written by hand (85.1% AI-written)
+✍️ 2,320 lines written by AI, 233 lines written by hand (90.87% AI-written)
 
-🔤 2,541,605 Input Tokens, 1,015,588 Output Tokens
+🔤 2,474,726 Input Tokens, 846,072 Output Tokens
 
-💵 $102.32 Estimated AI Cost This Week
+💵 $51.32 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 166 AI Prompts
+🧠 8 AI Sessions, 73 AI Prompts
 
-Opus                     1,847 lines         ████████████░░░░░░░░░░░░░   48.76 % 
-Sonnet                   1,842 lines         ████████████░░░░░░░░░░░░░   48.63 % 
-Grok                     90 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Cursor                   9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Opus                     1,847 lines         ███████████████████░░░░░░   77.09 % 
+Sonnet                   549 lines           ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.1% of written lines came from AI
-📄 Detailed Prompter — average 623 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 26.61% of changed lines were hand-edited
+🤖 AI-Driven — 90.87% of written lines came from AI
+📄 Detailed Prompter — average 865 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 19.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -89,5 +89,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 09:11:59 UTC
+ Last Updated on 01/10/2026 09:07:38 UTC
 <!--END_SECTION:waka-->
