@@ -32,41 +32,40 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 59 mins       █████████████░░░░░░░░░░░░   50.45 % 
-Markdown                 2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-SQL                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-HTML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Python                   8 hrs 9 mins        ██████████████████████░░░   87.55 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 10 mins       █████████████░░░░░░░░░░░░   52.31 % 
-VS Code                  4 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.69 % 
+VS Code                  6 hrs 59 mins       ███████████████████░░░░░░   74.89 % 
+Claude Code              2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
 
 💻 Operating System: 
-Mac                      9 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 26 mins (65.08%)
+⏱ AI Coding Time: 3 hrs 5 mins (33.11%)
 
-✍️ 1,574 lines written by AI, 312 lines written by hand (83.46% AI-written)
+✍️ 1,725 lines written by AI, 230 lines written by hand (88.24% AI-written)
 
-🔤 1,883,923 Input Tokens, 284,285 Output Tokens
+🔤 2,516,512 Input Tokens, 262,864 Output Tokens
 
-💵 $22.23 Estimated AI Cost This Week
+💵 $28.25 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 55 AI Prompts
+🧠 6 AI Sessions, 32 AI Prompts
 
-Opus                     1,725 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,751 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.46% of written lines came from AI
-📝 Concise Prompter — average 376 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 47.23% of changed lines were hand-edited
+🤖 AI-Driven — 88.24% of written lines came from AI
+📚 Verbose Prompter — average 2,179 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 28.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -84,5 +83,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 09:08:55 UTC
+ Last Updated on 15/10/2026 07:41:33 UTC
 <!--END_SECTION:waka-->
