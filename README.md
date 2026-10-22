@@ -32,40 +32,19 @@
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 9 mins        ██████████████████████░░░   87.55 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 59 mins       ███████████████████░░░░░░   74.89 % 
-Claude Code              2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 5 mins (33.11%)
-
-✍️ 1,725 lines written by AI, 230 lines written by hand (88.24% AI-written)
-
-🔤 2,516,512 Input Tokens, 262,864 Output Tokens
-
-💵 $28.25 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 32 AI Prompts
-
-Opus                     1,751 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 88.24% of written lines came from AI
-📚 Verbose Prompter — average 2,179 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 28.68% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -83,5 +62,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KittyByte/KittyByte/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 07:41:33 UTC
+ Last Updated on 22/10/2026 08:17:56 UTC
 <!--END_SECTION:waka-->
